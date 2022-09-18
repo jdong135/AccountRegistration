@@ -1,6 +1,10 @@
 # AccountRegistration
 Playing around with Flask
 
+## Setting up Flask app
+* export FLASK_APP=api
+* export FLASK_DEBUG=1
+
 ## Creating Database in Python terminal
 * from api.models import User
 * from api import db, create_app
